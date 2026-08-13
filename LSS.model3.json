@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "LSS.moc3",
 		"Textures": [
-			"LSS.4096/texture_00.png"
+			"666.png"
 		],
 		"Physics": "LSS.physics3.json",
 		"DisplayInfo": "LSS.cdi3.json"
